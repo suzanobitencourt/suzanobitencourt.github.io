@@ -1,7 +1,7 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
-  Photo: img/avatar.jpg
+  FirstName: Suzano
+  LastName: Bitencourt
+  Photo: img/suzano.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +44 123 456 789
