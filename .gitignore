@@ -4,6 +4,7 @@ public/
 # Arquivos temporários Hugo
 .hugo_build.lock
 resources/_gen/
+resources/
 
 # Arquivos de log
 *.log
