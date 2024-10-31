@@ -1,15 +1,13 @@
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "pt-br"
+defaultContentLanguage = "pt"
 enableRobotsTXT = true
 enableEmoji = true
 
 theme = "almeida-cv"
-#themesDir = "../.."
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
-title = "Example - CV"
-#googleAnalytics = ""
+baseURL = "https://suzanobitencourt.github.io/"
+title = "Suzano Bitencourt"
 
 [params]
 enableMetaTags = true

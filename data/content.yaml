@@ -1,18 +1,21 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: Suzano
+  LastName: Bitencourt
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +55 (11) 96703-8527
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
-    - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+      Info: suzanobitencourt@gmail.com
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Brasil - São Paulo
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://suzano.github.io/" target="_blank">https://suzano.github.io/</a>
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://suzanobitencourt.github.io/" target="_blank">https://suzanobitencourt.github.io/</a>
+    
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: <p><strong>Olá, sou Suzano, um técnico em informática com mais de 14 anos de experiência no Departamento de Engenharia da Computação e Sistemas Digitais da Escola Politécnica da USP.</strong></p><p>Sou especializado em desenvolvimento web, programação, banco de dados e suporte técnico, sempre buscando soluções inovadoras e práticas. Minha abordagem colaborativa me permite integrar equipes e otimizar processos, elevando os resultados de cada projeto.</p><p>Se você precisa de um profissional confiável para implementar interfaces de usuário intuitivas ou fortalecer sua infraestrutura de TI, estou aqui para ajudar. Tem um projeto empolgante em mente? Vamos conversar e transformar sua visão em realidade!<p>
 
 Experience:
   - Employer: Super Cool Company
@@ -116,23 +119,19 @@ Skills:
       - LaTeX
 
 Languages:
-  - Name: Portuguese
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+  - Name: Português
+    Level: Nativo
+  - Name: Inglês
+    Level: Intermediário
 
 Diplomas:
   - ISTQB Tester Certification (2019)
   - English Cambridge CAE (2009)
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Artesanato
+  - Caminhada
+  - Ciclismo
+  - Jardinagem
+  - Literatura
+  - Música 
