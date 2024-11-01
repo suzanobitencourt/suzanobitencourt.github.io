@@ -18,54 +18,75 @@ BasicInfo:
 Profile: <p><strong>Olá, sou Suzano, um técnico em informática com mais de 14 anos de experiência no Departamento de Engenharia da Computação e Sistemas Digitais da Escola Politécnica da USP.</strong></p><p>Sou especializado em desenvolvimento web, programação, banco de dados e suporte técnico, sempre buscando soluções inovadoras e práticas. Minha abordagem colaborativa me permite integrar equipes e otimizar processos, elevando os resultados de cada projeto.</p><p>Se você precisa de um profissional confiável para implementar interfaces de usuário intuitivas ou fortalecer sua infraestrutura de TI, estou aqui para ajudar. Tem um projeto empolgante em mente? Vamos conversar e transformar sua visão em realidade!<p>
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: EPUSP - Engenharia da Computação e Sistemas Digitais
+    Place: São Paulo - SP 
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Title: Técnico em Informática
+        Date: 2010 - Presente
+        Details:       
+          - Suporte técnico aos usuários, atendendo desde a orientação no uso de softwares e aplicativos específicos até a solução de problemas complexos em serviços de informática e redes.
+          - Realização de diagnósticos rápidos e eficazes de problemas em hardware e software, empregando uma abordagem analítica para resolver falhas e restaurar a funcionalidade de equipamentos críticos para o trabalho acadêmico.
+          - Desenvolvimento de sites sofisticados, responsivos e com interfaces funcionais para atender às necessidades do departamento e dos laboratórios.
+          - Manutenção e configuração avançada de servidores na plataforma Internuvem USP, ajustes e manutenção de serviços como Apache, PHP, MariaDB e Firewall.
+          - Assistência contínua aos docentes na disciplina de introdução à engenharia, contribuindo diretamente para o desenvolvimento de sistemas embarcados e atividades de programação prática.
+          - Organização e suporte técnico para eventos e transmissões online, auxiliando na preparação das salas, configuração de equipamentos audiovisuais.
         Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+  - Employer: CDB - Centro de Diagnósticos Brasil
+    Place: São Paulo - SP
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Assistente de TI
+        Date: 2010 - 2010
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - Prestar suporte técnico presencial e remoto, incluindo atendimento por telefone, para as diversas unidades da instituição.
+          - Diagnosticar problemas técnicos, partindo das solicitações dos usuários para identificar a causa raiz de falhas em hardware e software.
+          - Participar da implantação e manutenção de sistemas, bem como desenvolver trabalhos de montagem, simulação e testes de programas.
+          - Acompanhar o funcionamento dos sistemas em processamento, instalação, configuração de software e impressoras.
         Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+  - Employer: MICROCAMP - Educação Tecnológica
+    Place: São Paulo - SP
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Instrutor de Informática
+        Date: 2005 - 2009
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
+          - Dotnet (Windows XP/Vista, Office XP)
+          - Linux (Desktop e Servidor Conectiva Linux 10, Samba, Iptables, OpenOffice)
+          - Hardware (Eletrônica básica, Hardware Teórico e Prático, MS-DOS 6.22, Windows XP/Vista, Conectiva Linux 10, Redes)
+          - Curso de Webdesign (Windows XP/Vista, HTML, CSS, Corel Draw 13, Photoshop CS3, Fireworks CS3, Dreamweaver CS3, Lógica de Programação, Javascript, PHP, Mysql, ASP, Flash CS3)
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: DATA BYTE - Formação Profissional
+    Place: São Paulo - SP
+    Positions:
+      - Title: Instrutor de Informática
+        Date: 2002 - 2005
+        Details:
+          - Operador de Microcomputador (Windows XP, Office XP/2000, Publisher e FrontPage)
+          - Suporte Técnico Hardware e Redes (Hardware Redes e Manutenção Preventiva)
+          - Computação Gráfica (Photoshop 5, CorelDRAW 10, PageMaker 7 e InDesign)
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: COMPUWAY - Ensino Interativo
+    Place: São Paulo - SP
+    Positions:
+      - Title: Instrutor de Informática
+        Date: 2000 - 2002
+        Details:
+          - Tecnologia da Informação (Introdução à Informática, Windows 98, Office 97 e Internet)
+          - Programador de Sistemas (Lógica de Programação, Access 97 e Visual Basic 6)
+          - Produção Gráfica (Photoshop 5, CorelDRAW 8 e PageMaker 6)
+          - Montagem e Manutenção de Computadores (Hardware Teórico e Prático)
         Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
+  - Course: Superior de Tecnologia em Automação Industrial
+    Place: Faculdade de Tecnologia SENAI Mariano Ferraz
+    Date: 2015 - 2018
+    Details: Specialised in data analysis
+  - Course: Técnico em Eletrônica
+    Place: ETEC Guaracy Silveira
+    Date: 2022 - 2023
+    Details: Specialised in data analysis
+  - Course: Técnico em Informática
+    Place: SENAC - Serviço Nacional de Aprendizagem Comercial
+    Date: 2003 - 2005
     Details: Specialised in data analysis
 
 References:
@@ -87,7 +108,6 @@ References:
       Info: contact@person-two.com
     - Icon: fas fa-map-marker-alt
       Info: Sydney, Australia
-
 
 Skills:
   - Family: Programming
@@ -125,8 +145,11 @@ Languages:
     Level: Intermediário
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Curso de Introdução à Programação - IME-USP
+  - Lógica de Programação com Java - IME-USP
+  - Interfaces Web com HTML, CSS e JavaScript - IME-USP
+  - Linux Essentials e Linux Systems Administration - 4Linux
+  - Treinamentos em Prevenção e Combate ao Princípio de Incêndio e NR10
 
 Interests:
   - Artesanato
