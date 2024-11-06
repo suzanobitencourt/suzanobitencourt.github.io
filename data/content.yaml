@@ -90,27 +90,27 @@ Education:
     Details: Specialised in data analysis
 
 References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
+  - Name: Allan Koch Veiga
+    Relation: Colega de trabalho no LAA-EPUSP
     Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 790
+    - Icon: fas fa-globe
+      Info: https://br.linkedin.com/in/allan-koch
     - Icon: fas fa-envelope
-      Info: contact@person-one.com
+      Info: allan.kv@gmail.com
     - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
+      Info: São Paulo - SP
+  - Name: Nilton Araujo do Carmo
+    Relation: Gerente Técnico no PCS-EPUSP
     Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
+    - Icon: fas fa-globe
+      Info: https://br.linkedin.com/in/nilton-araujo-do-carmo-18b459
     - Icon: fas fa-envelope
-      Info: contact@person-two.com
+      Info: nilton.carmo@gmail.com
     - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
+      Info: São Paulo - SP
 
 Skills:
-  - Family: Programming
+  - Family: Programação
     Items:
       - Python
       - HTML (including Jinja)
@@ -127,16 +127,16 @@ Skills:
       - Flask
       - Hugo
       - React
-  - Family: Developer Tools
+  - Family: Ferramentas
     Items:
       - Git
       - Docker
       - Jenkins
       - AWS
-  - Family: Misc
+  - Family: Diversos
     Items:
-      - Adobe Tools
       - LaTeX
+      - Adobe Tools
 
 Languages:
   - Name: Português
