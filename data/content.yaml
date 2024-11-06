@@ -90,15 +90,6 @@ Education:
     Details: Specialised in data analysis
 
 References:
-  - Name: Allan Koch Veiga
-    Relation: Colega de trabalho no LAA-EPUSP
-    Contacts:
-    - Icon: fas fa-globe
-      Info: https://br.linkedin.com/in/allan-koch
-    - Icon: fas fa-envelope
-      Info: allan.kv@gmail.com
-    - Icon: fas fa-map-marker-alt
-      Info: São Paulo - SP
   - Name: Nilton Araujo do Carmo
     Relation: Gerente Técnico no PCS-EPUSP
     Contacts:
@@ -106,6 +97,15 @@ References:
       Info: https://br.linkedin.com/in/nilton-araujo-do-carmo-18b459
     - Icon: fas fa-envelope
       Info: nilton.carmo@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: São Paulo - SP
+  - Name: Allan Koch Veiga
+    Relation: Colega de trabalho no LAA-EPUSP
+    Contacts:
+    - Icon: fas fa-globe
+      Info: https://br.linkedin.com/in/allan-koch
+    - Icon: fas fa-envelope
+      Info: allan.kv@gmail.com
     - Icon: fas fa-map-marker-alt
       Info: São Paulo - SP
 
